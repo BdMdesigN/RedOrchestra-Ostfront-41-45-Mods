@@ -1,0 +1,8 @@
+A dog-bot I found in KF.
+Should serve as base for creating Soviet Anti-Tank dogs carrying special satchel charges.
+https://www.youtube.com/watch?v=7UAvYzHSsfs
+https://www.youtube.com/watch?v=aWF_3etdA-w
+I broke it down into anims, textures and sounds.
+I re-did the mesh and relinked the animations and sound notifies.
+Fixed a small bug in the sound group, causing the attack sound to be always the same.
+
