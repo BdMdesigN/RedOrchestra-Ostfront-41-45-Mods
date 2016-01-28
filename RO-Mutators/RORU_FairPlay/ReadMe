@@ -1,0 +1,13 @@
+RO.RU FairPlay mutator for RO.
+This is information on the latest version of the mutator running on RO.RU servers.
+
+General information:
+Idea based on Exterminator.
+Mutator type:
+Method:
+Other changes:
+Known bugs:
+Known issues:
+Known limitation: Currently replaces defines only vanilla RPCs.
+Must add support for custom RPC classes.
+Must create version for: CC, MN, RoTT and most importantly DH 5.0
