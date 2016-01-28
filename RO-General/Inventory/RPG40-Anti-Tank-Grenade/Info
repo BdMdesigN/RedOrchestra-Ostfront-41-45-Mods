@@ -1,0 +1,8 @@
+Origin: Carpathian Crosses.
+RPG 40 AntiTank grenade that will explode upon impact with hard surface.
+Deals explosive damage to vehicles and infantry.
+Uses percussion detonator.
+Safety utilised: unknown.
+Known issues: would not explode upon impact with tank turret.
+Would explode the moment it's thrown (caused by collision with Instigator)
+
