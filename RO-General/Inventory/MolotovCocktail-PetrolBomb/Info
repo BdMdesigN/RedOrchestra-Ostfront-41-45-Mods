@@ -1,0 +1,12 @@
+A Petrol Bomb (molotov Cocktail ) used aginst tanks and infantry.
+Known issues: could not add physics volume to deal damage in an area set on fire.
+Will deal damage to Pawn standing in area set on fire only if said pawn is moving.
+
+Can be deflected off tank if thrown under small angle
+Inherited from the Panzerfaust.
+Must do: do not use faust as parent.
+Deal damage to any vehicle no matter of armor (no penetration check of course)
+Deal extra damage if thrown on critical areas, like engine radiator and other openings.
+Deal DoT.
+
+Downsides: needs custom pawn in orded to support setting palyers on fire.
