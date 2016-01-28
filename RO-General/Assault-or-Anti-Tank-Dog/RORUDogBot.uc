@@ -1349,7 +1349,7 @@ Begin:
 	GoNextOrders();
 }
 
-State FightEnemyDog //error expected state got function   fight enemy is function....
+State FightEnemyDog 
 {
 //dynamit adds	 ignores SeePlayer, HearNoise;
 
