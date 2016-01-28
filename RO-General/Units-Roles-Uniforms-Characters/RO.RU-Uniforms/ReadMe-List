@@ -1,0 +1,16 @@
+This folder contains all RO.RU custom uniforms, detail information and description.
+List:
+RO.RU Bushlat Roles by [RO.RU]Malinovskiy. No information on this one, most likely based on CC Naval ones, but use custom texture.
+note: contains changes to pawn, including hitpoints.
+
+RO.RU GreatCoat M 41 Uniform texture and model work by Kolya. Testing: Dynamit.
+note: M 41 Winter GreatCoat model for soviet soldiers. Based on Heer GreatCoat.
+
+RORU- EH M 43: fixed proper model (mesh, texture and etc) for EH's M43 Uniforms.
+note:
+
+RO.RU Medals (Badges)
+A RO2 styled badges that are simply a Dummy Attachments.
+Currently the soviet Guards badhe has been made.
+Thanx to Theel for telling me how to make it properly.
+note: limitations: replication
